@@ -265,3 +265,11 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #13DAEC; }
+
+.emphasis {
+  color: #8CD668
+}
+
+.reveal h2 {
+  color: #7F32FF;
+}

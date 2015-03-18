@@ -257,3 +257,7 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #e7ad52; }
+
+.indent {
+  margin-left: 10px;
+}
